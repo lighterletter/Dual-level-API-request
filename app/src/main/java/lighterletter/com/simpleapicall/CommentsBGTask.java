@@ -1,4 +1,4 @@
-package lighterletter.com.vineexercise;
+package lighterletter.com.simpleapicall;
 
 import android.app.Dialog;
 import android.content.Context;

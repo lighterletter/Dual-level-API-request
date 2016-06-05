@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "lighterletter.com.vineexercise"
+        applicationId "lighterletter.com.simpleapicall"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1

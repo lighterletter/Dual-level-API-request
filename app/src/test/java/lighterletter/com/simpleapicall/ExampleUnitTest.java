@@ -1,4 +1,4 @@
-package lighterletter.com.vineexercise;
+package lighterletter.com.simpleapicall;
 
 import org.junit.Test;
 
