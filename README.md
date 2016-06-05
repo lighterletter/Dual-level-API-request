@@ -1,4 +1,4 @@
-# VineAudition
+# Android simple-API-request application.
  A simple application that connects to the github public API.
  It displays current issues for the rails repo, creating on item click, a dialog that displays comments on that particular issue. 
  
